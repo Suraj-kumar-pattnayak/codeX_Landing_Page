@@ -1,4 +1,4 @@
-import { Box, Container, Typography, Button } from '@mui/material';
+import { Box, Container, Typography } from '@mui/material';
 import { yellow } from '@mui/material/colors';
 import Spline from '@splinetool/react-spline';
 
