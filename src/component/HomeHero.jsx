@@ -13,11 +13,7 @@ const HomeHero = () => {
         <Typography variant="h6" gutterBottom>
           From beginner to pro, CodeX helps you master algorithms, data structures, and problem-solving through practice, contests, and tutorials.
         </Typography>
-        <Box sx={{ mt: 4 }}>
-          <Button variant="contained" color="primary" size="large" sx={{ mr: 2, bgcolor: 'black', border: "1px solid #FFD700", "&:hover": { bgcolor: yellow[700] } }}>
-            Start Coding
-          </Button>
-        </Box>
+        
         <Box sx={{ mt: 6 }}>
           <Spline scene="https://prod.spline.design/UpnRKfPzp06tjyoY/scene.splinecode"
             style={{ width: '100%', borderRadius: '12px' }}
